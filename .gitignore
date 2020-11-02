@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 attacks.csv
+Shark_updated.csv
+shark_dom_noche.csv
